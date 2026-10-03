@@ -142,7 +142,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
 
 #EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="France 24.th" tvg-name="France 24" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png" group-title="Digital TV", France 24
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
 
 #EXTINF:-1 tvg-chno="105" ch-number="105" tvg-id="CNA.th" tvg-name="CNA" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png" group-title="Digital TV", CNA
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
